@@ -14,3 +14,12 @@
   - [env-manage](./9.深入理解%20Webpack%20核心配置结构/env-manage/webpack.common.js)
   - [target-node-web](./9.深入理解%20Webpack%20核心配置结构/target-node-web/webpack.config.js)
 - [10.性能构建:7个性能分析工具](./10.性能构建:7个性能分析工具/stats-with-profile/webpack.config.js)
+- [11.webpack实现多进程并行构建](./11.webpack实现多进程并行构建/)
+- [12.如何正确使用SplitChunks插件来提高app性能](./12.如何正确使用SplitChunks插件来提高app性能/)
+  - [splitchunks-basic](./12.如何正确使用SplitChunks插件来提高app性能/splitchunks-basic/webpack.config.js)
+  - [splitchunks-seperate-npm](./12.如何正确使用SplitChunks插件来提高app性能/splitchunks-seperate-npm/webpack.config.js)
+- [13.代码压缩的门道](./13.代码压缩的门道/)
+  - [minify-css](./13.代码压缩的门道/minify-css/webpack.config.js)
+  - [minify-html](./13.代码压缩的门道/minify-html/webpack.config.js)
+  - [minify-terser](./13.代码压缩的门道/minify-terser/webpack.config.js)
+
