@@ -13,3 +13,4 @@
   - [entry-runtime](./9.深入理解%20Webpack%20核心配置结构/entry-runtime/webpack.config.js)
   - [env-manage](./9.深入理解%20Webpack%20核心配置结构/env-manage/webpack.common.js)
   - [target-node-web](./9.深入理解%20Webpack%20核心配置结构/target-node-web/webpack.config.js)
+- [10.性能构建:7个性能分析工具](./10.性能构建:7个性能分析工具/stats-with-profile/webpack.config.js)
