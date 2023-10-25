@@ -7,3 +7,4 @@
 - [5.webpack构建微前端](./5.webpack构建微前端/package.json)
 - [6.MF-micro-fe](./6.MF-micro-fe/package.json)
 - [7.webpack-develop-pwa](7.webpack-develop-pwa/webpack.config.js)
+- [8.深入理解图像加载原理与最佳实践](./8.深入理解图像加载原理与最佳实践/webpack.config.js)
