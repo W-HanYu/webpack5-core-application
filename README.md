@@ -22,4 +22,8 @@
   - [minify-css](./13.代码压缩的门道/minify-css/webpack.config.js)
   - [minify-html](./13.代码压缩的门道/minify-html/webpack.config.js)
   - [minify-terser](./13.代码压缩的门道/minify-terser/webpack.config.js)
-
+- [14.webpack有哪些性能优化技巧?](./14.webpack有哪些性能优化技巧？/)
+  - [perf-vue-lazy-load](./14.webpack有哪些性能优化技巧？/perf-vue-lazy-load/webpack.config.js)
+  - [perf-hash](./14.webpack有哪些性能优化技巧？/perf-hash/webpack.config.js)
+  - [perf-hash-case1](./14.webpack有哪些性能优化技巧？/perf-hash-case1/webpack.config.js)
+  - [perf-budget](./14.webpack有哪些性能优化技巧？/perf-budget/webpack.config.js)
